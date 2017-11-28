@@ -1,0 +1,172 @@
+/*
+ * Specific styles of signin component
+ */
+/*
+ * General styles
+ */
+
+
+.text-white {
+  color: white;
+  padding-bottom: 15px;
+  text-align: left;
+}
+
+.card h3,
+.card h6 {
+    margin: 0;
+}
+
+h4>a {
+  color: #999;
+}
+
+.page-card {
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    transition: all 100ms ease;
+}
+
+.card {
+    align-items: center;
+    border-radius: 2px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: space-around;
+    transition: all 100ms ease;
+}
+
+.card:hover {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card-ranking:nth-child(1) {
+    border: 2px solid rgba(255, 165, 0, 0.5);
+    box-shadow: 0px 1px 3px rgba(255, 165, 0, 0.25);
+}
+
+.card-ranking:nth-child(1):hover {
+    box-shadow: 0px 5px 10px rgba(255, 165, 0, 0.5);
+}
+
+.card-ranking:nth-child(1)>.card-ranking-block>h3 {
+    color: orange;
+    font-weight: bold;
+}
+
+.card-ranking:nth-child(2) {
+    border: 2px solid rgba(153, 153, 153, 0.5);
+    box-shadow: 0px 1px 3px rgba(153, 153, 153, 0.25);
+}
+
+.card-ranking:nth-child(2):hover {
+    box-shadow: 0px 5px 10px rgba(153, 153, 153, 0.5);
+}
+
+.card-ranking:nth-child(2)>.card-ranking-block>h3 {
+    color: #999;
+    font-weight: 500;
+}
+
+.card-ranking:nth-child(3) {
+    border: 2px solid rgba(164, 83, 0, 0.5);
+    box-shadow: 0px 1px 3px rgba(164, 83, 0, 0.25);
+}
+
+.card-ranking:nth-child(3):hover {
+    box-shadow: 0px 5px 10px rgba(164, 83, 0, 0.5);
+}
+
+.card-ranking:nth-child(3)>.card-ranking-block>h3 {
+    color: #a45300;
+    font-weight: 500;
+}
+
+.card-block {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+
+.card-user {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.card-user-avatar a {
+    margin: 5px;
+}
+
+.card-user-avatar img {
+    border-radius: 2px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card-user-name {
+    padding-left: 5px;
+}
+
+.page-card-margin {
+    margin-bottom: 25px;
+}
+
+.level {
+    border: 2px solid #999;
+    border-radius: 16px;
+    display: inline-block;
+    height: 32px;
+    line-height: 28px;
+    text-align: center;
+    width: 32px;
+}
+
+.mini-level {
+    height: 24px;
+    line-height: 20px;
+    width: 24px;
+}
+
+.mini-level-text {
+    font-size: 12px;
+    vertical-align: top;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.page-category-heading {
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+.navbar-background-template {
+  border-bottom: 3px solid #b5a2ff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+  height: 500px;
+  padding-bottom: 50px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgb(104, 145, 162), rgb(12, 97, 33));
+}
+.navbar-background {
+    background-color: #7a62d3;
+    background-position: top!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    border-bottom: 3px solid #b5a2ff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    height: 500px;
+    padding-bottom: 50px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}

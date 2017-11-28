@@ -1,0 +1,16 @@
+{
+  "id" : "loyality",
+  "name" : "Loyality",
+  "menu" : {
+    "icon" : "trophy",
+    "badge" : ""
+  },
+  "external": [
+      {
+        "id" : "view",
+        "name" : "Loyality",
+        "icon" : "trophy",
+        "badge" : ""
+      }
+    ]
+}

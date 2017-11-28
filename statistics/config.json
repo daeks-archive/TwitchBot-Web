@@ -1,0 +1,16 @@
+{
+  "id" : "statistics",
+  "name" : "Statistics",
+  "menu" : {
+    "collapse" : 1,
+    "icon" : "bar-chart",
+    "submenu": [
+      {
+        "id" : "stats",
+        "name" : "Command Statistics",
+        "icon" : "pencil-square-o",
+        "badge" : ""
+      }
+    ]
+  }
+}

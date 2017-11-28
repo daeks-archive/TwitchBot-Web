@@ -1,0 +1,8 @@
+{
+  "id" : "regulars",
+  "name" : "Regulars",
+  "menu" : {
+    "icon" : "star",
+    "badge" : ""
+  }
+}

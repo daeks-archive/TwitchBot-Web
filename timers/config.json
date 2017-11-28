@@ -1,0 +1,8 @@
+{
+  "id" : "timers",
+  "name" : "Timers",
+  "menu" : {
+    "icon" : "clock-o",
+    "badge" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "filters",
+  "name" : "Filters",
+  "beta" : 1,
+  "menu" : {
+    "icon" : "filter",
+    "badge" : ""
+  }
+}

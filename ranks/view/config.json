@@ -1,0 +1,11 @@
+{
+  "id" : "view",
+  "name" : "Ranking",
+  "search" : {
+    "name" : "User Search",
+    "enabled" : true,
+    "type" : "html",
+    "query" : "/ranks/view/search.php",
+    "target" : "#list"
+  }
+}

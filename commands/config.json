@@ -1,0 +1,56 @@
+{
+  "id" : "commands",
+  "name" : "Commands",
+  "menu" : {
+    "order" : 0,
+    "collapse" : 0,
+    "icon" : "pencil",
+    "badge" : "select 1 from dual",
+    "submenu": [
+      {
+        "id" : "default",
+        "name" : "Default",
+        "icon" : "file",
+        "badge" : ""
+      },
+      {
+        "id" : "alias",
+        "name" : "Aliases",
+        "icon" : "repeat",
+        "badge" : ""
+      },
+      {
+        "id" : "admin",
+        "name" : "Admin",
+        "icon" : "puzzle-piece",
+        "badge" : ""
+      },
+      {
+        "id" : "fun",
+        "name" : "Fun",
+        "icon" : "futbol-o",
+        "badge" : ""
+      },
+      {
+        "id" : "commands",
+        "name" : "Custom",
+        "icon" : "pencil-square-o",
+        "badge" : ""
+      },
+      {
+        "id" : "disabled",
+        "name" : "Disabled",
+        "icon" : "ban",
+        "badge" : ""
+      }
+    ]
+  },
+  "external": [
+    {
+      "id" : "view",
+      "name" : "Commands",
+      "icon" : "pencil",
+      "badge" : ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "administration",
+  "name" : "Administration",
+  "level" : "owner",
+  "menu" : {
+    "order" : 999,
+    "collapse" : 0,
+    "icon" : "cog",
+    "badge" : "",
+    "submenu": [
+      {
+        "id" : "bot",
+        "name" : "Bot Configuration",
+        "icon" : "desktop",
+        "badge" : ""
+      },
+      {
+        "id" : "user",
+        "name" : "User Configuration",
+        "icon" : "users",
+        "badge" : ""
+      },
+      {
+        "id" : "sys",
+        "name" : "System Logs",
+        "icon" : "database",
+        "badge" : ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "quotes",
+  "name" : "Quotes",
+  "menu" : {
+    "icon" : "quote-left",
+    "badge" : ""
+  },
+  "external": [
+      {
+        "id" : "view",
+        "name" : "Quotes",
+        "icon" : "quote-left",
+        "badge" : ""
+      }
+    ]
+}

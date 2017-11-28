@@ -1,0 +1,16 @@
+{
+  "id" : "credits",
+  "name" : "Credits",
+  "menu" : {
+    "icon" : "money",
+    "badge" : ""
+  },
+  "external": [
+      {
+        "id" : "view",
+        "name" : "Credits",
+        "icon" : "money",
+        "badge" : ""
+      }
+    ]
+}

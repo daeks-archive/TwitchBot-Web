@@ -1,0 +1,8 @@
+{
+  "id" : "chatlog",
+  "name" : "Chat Log",
+  "menu" : {
+    "icon" : "comments-o",
+    "badge" : ""
+  }
+}

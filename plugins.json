@@ -1,0 +1,68 @@
+[  
+   {  
+      "id":"admin",
+      "name":"Admin Commands",
+      "icon":"puzzle-piece"
+   },
+   {  
+      "id":"commands"
+   },
+   {  
+      "id":"credits"
+   },
+   {  
+      "id":"filters"
+   },
+   {  
+      "id":"fun",
+      "name":"Fun Commands",
+      "icon":"futbol-o"
+   },
+   {  
+      "id":"loyality"
+   },
+   {  
+      "id":"quotes"
+   },
+   {  
+      "id":"ranks"
+   },
+   {  
+      "id":"timers"
+   },
+   {  
+      "id":"uptime",
+      "name":"Uptime Command",
+      "icon":"arrow-circle-up"
+   },
+   {  
+      "id":"botalert",
+      "name":"Bot Notification",
+      "icon":"commenting-o"
+   },
+   {  
+      "id":"deprecated",
+      "name":"Deprecated Notification",
+      "icon":"terminal"
+   },
+   {  
+      "id":"rules",
+      "name":"Rule Notification",
+      "icon":"registered"
+   },
+   {  
+      "id":"stats",
+      "name":"Statistic Plugin",
+      "icon":"bar-chart"
+   },
+   {  
+      "id":"subalert",
+      "name":"Subscription Notification",
+      "icon":"bell"
+   },
+   {  
+      "id":"archive",
+      "name":"Archive",
+      "icon":"archive"
+   }
+]

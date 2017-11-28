@@ -1,0 +1,8 @@
+{
+  "id" : "sys",
+  "name" : "System Logs",
+  "menu" : {
+    "icon" : "database",
+    "badge" : ""
+  }
+}

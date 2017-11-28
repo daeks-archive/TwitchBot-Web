@@ -1,0 +1,16 @@
+{
+  "id" : "ranks",
+  "name" : "Rankings",
+  "menu" : {
+    "icon" : "list",
+    "badge" : ""
+  },
+  "external": [
+      {
+        "id" : "view",
+        "name" : "Ranking",
+        "icon" : "list",
+        "badge" : ""
+      }
+    ]
+}

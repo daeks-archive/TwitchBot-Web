@@ -1,0 +1,9 @@
+{
+  "id" : "channels",
+  "name" : "Channels",
+  "level" : "owner",
+  "menu" : {
+    "icon" : "desktop",
+    "badge" : ""
+  }
+}
